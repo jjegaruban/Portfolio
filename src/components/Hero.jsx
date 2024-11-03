@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import profileImage from '../assets/KevinRushProfile.jpg';
+// import profileImage from '../assets/KevinRushProfile.png'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -31,8 +31,8 @@ const Hero = () => {
         <div className="w-full lg:w-1/2 lg:p-8" data-aos="fade-left"> {/* Animate from right to left */}
           <div className="flex justify-center">
             <img 
-              src={ProfilePic} 
-              alt="Jeyakumar Jegaruban" 
+              src=""
+              alt="" 
               className="rounded-full shadow-lg h-64 w-64 object-cover" 
             />
           </div>

@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import ProfilePic from "../assets/KevinRushProfile.png";
+import ProfilePic from "../assets/KevinRushProfile.jpg";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
